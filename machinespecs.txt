@@ -1,0 +1,71 @@
+yiy@pumi:~$ neofetch --stdout
+yiy@pumi 
+-------- 
+OS: Ubuntu 24.04.3 LTS x86_64 
+Host: Latitude E6540 01 
+Kernel: 6.14.0-36-generic 
+Uptime: 4 days, 1 hour, 57 mins 
+Packages: 2560 (dpkg), 18 (flatpak), 14 (snap) 
+Shell: bash 5.2.21 
+Resolution: 1920x1080 
+Terminal: /dev/pts/0 
+CPU: Intel i7-4800MQ (8) @ 3.700GHz 
+GPU: AMD ATI Radeon HD 8790M 
+GPU: Intel 4th Gen Core Processor 
+Memory: 1471MiB / 7846MiB 
+
+yiy@puli 
+-------- 
+OS: Xubuntu 24.04.3 2025.11.02 LTS (Cubic 2025-11-02 17:02) x86_64 
+Host: MacBookPro8,2 1.0 
+Kernel: 6.14.0-36-generic 
+Uptime: 6 days, 2 hours, 17 mins 
+Packages: 1811 (dpkg), 11 (snap) 
+Shell: bash 5.2.21 
+Resolution: 1440x900 
+Terminal: /dev/pts/0 
+CPU: Intel i7-2675QM (8) @ 3.100GHz 
+GPU: Intel 2nd Generation Core Processor Family 
+GPU: AMD ATI Radeon HD 6630M/6650M/6750M/7670M/7690M 
+Memory: 596MiB / 3827MiB 
+
+yiy@mimila 
+---------- 
+OS: Ubuntu 24.04.3 LTS x86_64 
+Host: MacBookPro6,2 1.0 
+Kernel: 6.14.0-36-generic 
+Uptime: 3 days, 18 hours, 12 mins 
+Packages: 2409 (dpkg), 12 (flatpak), 14 (snap) 
+Shell: bash 5.2.21 
+Resolution: 1680x1050 
+Terminal: /dev/pts/0 
+CPU: Intel i7 M 620 (4) @ 2.661GHz 
+GPU: Intel Core Processor 
+GPU: NVIDIA GeForce GT 330M 
+Memory: 1523MiB / 3778MiB 
+
+yiy@Dunlin 
+---------- 
+OS: Debian GNU/Linux 13 (trixie) x86_64 
+Host: MacBookPro8,2 1.0 
+Kernel: 6.12.57+deb13-amd64 
+Uptime: 4 days, 2 hours, 3 mins 
+Packages: 3605 (dpkg), 12 (flatpak), 16 (snap) 
+Shell: zsh 5.9 
+Resolution: 1440x900 
+Terminal: /dev/pts/0 
+CPU: Intel i7-2675QM (8) @ 3.100GHz 
+GPU: Intel 2nd Generation Core Processor Family 
+Memory: 4296MiB / 7859MiB 
+
+yiy@rottaf 
+---------- 
+OS: Ubuntu 24.04.3 LTS aarch64 
+Host: Raspberry Pi 3 Model B Rev 1.2 
+Kernel: 6.8.0-1031-raspi 
+Uptime: 24 days, 17 hours, 41 mins 
+Packages: 758 (dpkg), 63 (nix-default), 2 (snap) 
+Shell: bash 5.2.21 
+Terminal: /dev/pts/0 
+CPU: (4) @ 1.200GHz 
+Memory: 199MiB / 899MiB 
