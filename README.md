@@ -7,6 +7,12 @@ Resources
 . [Kubernetes The Hard Way - Bare Metal](https://github.com/Praqma/LearnKubernetes/blob/master/kamran/Kubernetes-The-Hard-Way-on-BareMetal.md)
 
 . [Linux Hypervisor Setup (libvirt/qemu/kvm)](https://www.youtube.com/watch?v=HfNKpT2jo7U)
+. [](https://www.tauceti.blog/posts/kubernetes-the-not-so-hard-way-with-ansible-the-basics/)
+. [](https://github.com/NotHarshhaa/kubernetes-learning-path)
+. [](https://github.com/jonashackt/kubernetes-the-ansible-way)
+. [](https://github.com/zufardhiyaulhaq/kubernetes-hard-way-ansible)
+. [](https://github.com/0xzer0x/kubernetes-the-ansible-way)
+. [](https://github.com/kubernetes-sigs/kubespray)
 
 Networking
 -----------
